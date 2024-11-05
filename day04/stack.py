@@ -22,6 +22,6 @@ stack = Stack()
 stack.push(1)
 stack.push(2)
 stack.push(3)
-print(stack.pop())  # Output: 3
-print(stack.peek())  # Output: 2
-print(stack.size())  # Output: 2
+print(stack.pop())  
+print(stack.peek())  
+print(stack.size())  
